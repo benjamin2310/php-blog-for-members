@@ -113,7 +113,7 @@
                     <hr class="visible-xs">
                     <p>Making the perfect coffee cup can be challenging! With so many unique flavours and recipes to choose from, where you begin?
                     Our website provides you with the best recipes from around the world.
-                    - we are sure to have  what you are looking for. For access for unlimited recipes you must register.Registration is free. Click here to get started</p>
+                    - we are sure to have  what you are looking for. For access for unlimited recipes you must register. Click on the blog page to become a member now!</p>
                 </div>
             </div>
         </div>
