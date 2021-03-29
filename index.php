@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 
 <head>
 
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Coffee Shop">
+    <meta name="author" content="coffee Shopf for members only">
 
     <title>The Wave Shop - Home</title>
 
@@ -106,28 +106,27 @@
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">HOW TO MAKE
-                        <strong>THE PERFECT CUP OF COFFEE</strong>
+                        <strong>A CUP OF COFFEE</strong>
                     </h2>
                     <hr>
                     <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">
                     <hr class="visible-xs">
                     <p>Making the perfect coffee cup can be challenging! With so many unique flavours and recipes to choose from, where you begin?
-                    Our website provides you with the best recipes from around the world. Whether you prefer your coffee hot and mild or bracingly cold and strong
-                    - we are sure to have  what you are looking for. For access for unlimited recipes you must register!
-                     REgistration is free. Click here to get started</p>
+                    Our website provides you with the best recipes from around the world.
+                    - we are sure to have  what you are looking for. For access for unlimited recipes you must register.Registration is free. Click here to get started</p>
                 </div>
             </div>
         </div>
         </div>
 
     </div>
-    <!-- /.container -->
+    <!--container -->
 
     <footer>
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; The Wave Shop 2020</p>
+                    <p>Copyright &copy; The Wave Shop 2020, by Benjamin</p>
                 </div>
             </div>
         </div>
