@@ -126,7 +126,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; The Wave Shop 2020, by Benjamin</p>
+                    <p>Copyright &copy; The Wave Shop 2020</p>
                 </div>
             </div>
         </div>
