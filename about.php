@@ -53,7 +53,7 @@
                 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/2W-D2D9Ivl8' frameborder='0' allowfullscreen></iframe></div>
                 </div>
                 <div class="col-md-6">
-                    <p>The Wave Shop was launched in 2012, in the heart of Accra.
+                    <p>The Wave Shop is yet to be launched in 2021, in the heart of Accra.
                      Our mission is simple. We want to help all shops especially coffee shops all over the world on how to make the perfect blend!
                      Our shop has coffee experts who have  a lifelong passion for coffee. They are internationally traveled and have experienced many varities.</p>
                 </div>
