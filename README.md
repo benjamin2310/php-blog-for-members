@@ -1,1 +1,2 @@
+WAVE SHOP
 This was a guided project. The aim of the Wave Shop was to help me build on my skills in web development, by seeing how AJAX works. It's both front end and back end technologies.As it stands, the Wave Shop is a online shop without members. I'm looking forward to connect to most breakfast hubs in Ghana and across. I had to copy some code and add to the project to make it work as expected.
